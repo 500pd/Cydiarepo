@@ -1,9 +1,0 @@
-#!/bin/zsh
-./slet_skrammelfiler
-./make_packages
-echo "flytter .deb filer"
-mv $PWD/debs/unpacked/*.deb ./debs/
-echo "laver pakkeliste"
-dpkg-scanpackages -m debs /dev/null > Packages
-gzip -c9 Packages > Packages.gz
-bzip2 -c9 Packages > Packages.bz2

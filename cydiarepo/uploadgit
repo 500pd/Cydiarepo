@@ -1,7 +1,0 @@
-#!/bin/zsh
-echo "Kopiere filer"
-cd /Users/paad/GitHub/cydiarepo/
-git add --all
-git commit -a 
-git push -u origin master
-echo "Kopiering færdig"
