@@ -1,0 +1,7 @@
+#!/bin/zsh
+echo "Kopiere filer"
+cd /Users/paad/GitHub/cydia\ -\ gh-pages/cydia/
+git add --all
+git commit -a 
+git push -u origin master
+echo "Kopiering færdig"

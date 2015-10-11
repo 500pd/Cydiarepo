@@ -1,0 +1,288 @@
+Package: com.paadyhr.osxtheme
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//com.paadyhr.osxtheme_1.1_iphoneos-arm.deb
+Size: 1770882
+MD5sum: 26a79181a1044f633b555dab8376951d
+SHA1: 66c5ed62c24c5a41967251f5998dc0149487654e
+SHA256: 569633ccc6a426a3f76187827c73e13ea7dccdb933ea2eb6773d34f8dc8f00fa
+Section: Themes
+Homepage: http://p.9.buhm.in
+Description: OS X Theme
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: http://p.9.buhm.in/depictions/OS_X_Theme/index.html
+Name: OS X Theme
+
+Package: com.paadyhr.osxtheme
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//com.paadyhr.osxtheme_1.2_iphoneos-arm.deb
+Size: 1777768
+MD5sum: 7f986d66fe10476cc19752e3f3fd03e4
+SHA1: f35dc950d847b1774f32ef6e0a5d3bb8ed2a7528
+SHA256: d14549645a305a33847a49e5e3964428ff237c62e69c049e9c156039f20878a8
+Section: Themes
+Homepage: http://p.9.buhm.in
+Description: OS X Theme
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: http://p.9.buhm.in/depictions/OS_X_Theme/index.html
+Name: OS X Theme
+
+Package: com.paadyhr.osxtheme
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//com.paadyhr.osxtheme_1.3_iphoneos-arm.deb
+Size: 1775826
+MD5sum: 2002132def40ef034986ee4a75b0d1ac
+SHA1: 402428924791aa19e7c4c0628acea4768ffcdccc
+SHA256: a8bfbb06a0a51b5a61aacc6bde32b6178b6ead229fe1d9d1bbee5d18741067eb
+Section: Themes
+Homepage: http://p.9.buhm.in
+Description: OS X Theme
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: http://p.9.buhm.in/depictions/OS_X_Theme/index.html
+Name: OS X Theme
+
+Package: com.paadyhr.osxtheme
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//com.paadyhr.osxtheme_1.4_iphoneos-arm.deb
+Size: 1775846
+MD5sum: 8768d026ea0a6e8da6ae9d0a52a8cc1a
+SHA1: 28bffa3610ea3bcf20406d3e8d445b1e7187eca4
+SHA256: 66b9888b68c0b95dd75fb125f28084bc16e16c7d7f537379fce4011a7bbbe7e0
+Section: Themes
+Homepage: http://p.9.buhm.in
+Description: OS X Theme
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: http://p.9.buhm.in/cydiarepo/depictions/OS_X_Theme/index.html
+Name: OS X Theme
+
+Package: com.paadyhr.osxtheme
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//com.paadyhr.osxtheme_1.5_iphoneos-arm.deb
+Size: 1775190
+MD5sum: 80b0370384c94dff5be4733af3dc1d56
+SHA1: 270dcc961a01965cb4fd1ac3f428c313e8c42ccd
+SHA256: e9b4b8403a38abb17bcee399cf1ae80c9690d4cd54ca7b4bd678a137903cb022
+Section: Themes
+Homepage: http://500pd.github.io
+Description: OS X Theme
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: http://500pd.github.io/cydiarepo/depictions/OS_X_Theme/index.html
+Name: OS X Theme
+
+Package: com.paadyhr.osxtheme
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//com.paadyhr.osxtheme_1.6_iphoneos-arm.deb
+Size: 1775190
+MD5sum: 4dcdb6752be99ee8845a5bfca64ef261
+SHA1: d97096c88c5ef63f0393ee8fb9062f2bc80270d4
+SHA256: 9a40f05987ebf82a6397d890630cb75e6c297dc2b5b27b49e752c36e86be5743
+Section: Themes
+Homepage: https://500pd.github.io
+Description: OS X Theme
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: https://500pd.github.io/cydia/depictions/OS_X_Theme/index.html
+Name: OS X Theme
+
+Package: com.paadyhr.peterstema
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//com.paadyhr.peterstema_0.1.4_iphoneos-arm.deb
+Size: 118862
+MD5sum: 9bb8e4703a8532cc2fb10f0596071eca
+SHA1: e1073f7710b2a9f7f293a35a6e760c4b805fbb2b
+SHA256: 1a0f3cc813feb5a6c8c66597857f489378b268ad4ab8e1f4247318b22b7f30e9
+Section: Themes
+Homepage: p.9.buhm.in
+Description: Peters Tema
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: p.9.buhm.in/depictions/PetersTema/
+Name: PetersTema
+
+Package: com.paadyhr.peterstema
+Version: 0.1.5
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//com.paadyhr.peterstema_0.1.5_iphoneos-arm.deb
+Size: 118878
+MD5sum: 360dd16424c4a0b1f2aec6602753dd10
+SHA1: 680504eb0185b4207781503d0435e6cc94814a45
+SHA256: 8cf1134e39fd40b62cb324cae91447c7c3ac41adca96e0ef61081dd6e93796aa
+Section: Themes
+Homepage: http://p.9.buhm.in
+Description: Peters Tema
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: http://p.9.buhm.in/depictions/PetersTema/index.html
+Name: PetersTema
+
+Package: com.paadyhr.peterstema
+Version: 0.1.6
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//com.paadyhr.peterstema_0.1.6_iphoneos-arm.deb
+Size: 119256
+MD5sum: d881c776740ea03214fd0a9fa23aa51c
+SHA1: 3c1355ed7a4a9d7e0f8c0ca4edd73a540cfe0b79
+SHA256: 33aa0d0f0e71a5eec1d4061beec5aa6fbfea2735800cc32c355cfb1a1d4fa4e2
+Section: Themes
+Homepage: http://p.9.buhm.in
+Description: Peters Tema
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: http://p.9.buhm.in/cydiarepo/depictions/PetersTema/index.html
+Name: PetersTema
+
+Package: com.paadyhr.peterstema
+Version: 0.1.7
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//com.paadyhr.peterstema_0.1.7_iphoneos-arm.deb
+Size: 119514
+MD5sum: c1e824cb3285ee8b79c2b126f1d5e2b0
+SHA1: 1bf366ec6761ddf98915a6e73a18a9380fa90c36
+SHA256: 32bd7b59c79dd007cb73566a5882db314427a5812bbf4c4d773f9f4baf8859fb
+Section: Themes
+Homepage: http://500pd.github.io
+Description: Peters Tema
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: http://500pd.github.io/depictions/PetersTema/index.html
+Name: PetersTema
+
+Package: com.paadyhr.peterstema
+Version: 0.1.8
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//com.paadyhr.peterstema_0.1.8_iphoneos-arm.deb
+Size: 118800
+MD5sum: 1d7e0bab8f4b3f1a7a2364b9e8f5af4f
+SHA1: c2b72a0f5f2c76e2b77531b3971cc67cf443c129
+SHA256: 7e6c1ac546b47f0f27585b0deb8898ba99e38fade70b7ac54027783200bcd377
+Section: Themes
+Homepage: http://500pd.github.io
+Description: Peters Tema
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: http://500pd.github.io/cydiarepo/depictions/PetersTema/index.html
+Name: PetersTema
+
+Package: com.paadyhr.peterstema
+Version: 0.1.9
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//com.paadyhr.peterstema_0.1.9_iphoneos-arm.deb
+Size: 118800
+MD5sum: 6923a1c81f983d9e8ff8595c70aac343
+SHA1: 47becc6111c0c3867f920fb822f5fa758476977b
+SHA256: 6dbdaf4329cfaf8dcf46066065892ce91807dc996546a19491531e88874e1ca0
+Section: Themes
+Homepage: https://500pd.github.io
+Description: Peters Tema
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: https://500pd.github.io/cydia/depictions/PetersTema/index.html
+Name: PetersTema
+
+Package: com.paadyhr.whitebootlogo
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//com.paadyhr.whitebootlogo_1.2_iphoneos-arm.deb
+Size: 6952
+MD5sum: 342d215b32a5aa39e53eaca39298ea04
+SHA1: ea37eedb7702655eaf548d65ef9e84a75433e128
+SHA256: cd759fdd86e3f0dc45d6929295584cb7fb8a476bec11bd3c2e69cdf711509c8c
+Section: Themes
+Homepage: p.9.buhm.in
+Description: White Bootlogo
+Auther: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Name: White BootLogo
+
+Package: com.paadyhr.whitebootlogo
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//com.paadyhr.whitebootlogo_1.4_iphoneos-arm.deb
+Size: 6992
+MD5sum: edd160e787520df97f21260dc7b3f630
+SHA1: 03795dc0e55cef92ad17558901b53e4d8498c0d3
+SHA256: ce87f6f71775394455a0c5377ad503d3b47a0d40f820e399b685849f24404ef7
+Section: Themes
+Homepage: http://p.9.buhm.in
+Description: White Bootlogo
+Auther: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: http://p.9.buhm.in/depictions/WhiteBootLogo/index.html
+Name: White BootLogo
+
+Package: com.paadyhr.whitebootlogo
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//com.paadyhr.whitebootlogo_1.5_iphoneos-arm.deb
+Size: 7348
+MD5sum: ca052e0ba6a726aae41e9db3cf307cd6
+SHA1: 120f07179aafd52612f082ecaba0363ae5169737
+SHA256: 75af0c4d5c8d532faa9254e310f327459d15b9c0171c01de81b73663247b623b
+Section: Themes
+Homepage: http://p.9.buhm.in
+Description: White Bootlogo
+Auther: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: http://p.9.buhm.in/cydiarepo/depictions/WhiteBootLogo/index.html
+Name: White BootLogo
+
+Package: com.paadyhr.whitebootlogo
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//com.paadyhr.whitebootlogo_1.6_iphoneos-arm.deb
+Size: 6980
+MD5sum: 52db9846a44a8876d48305235a78c9e7
+SHA1: eec0d3ef674a06cca6c0682d46869e37508936bc
+SHA256: e80d4eecfa841ae4328cbc66e42d39d049212a409ab0ee774f74bb5bb03c5974
+Section: Themes
+Homepage: http://500pd.github.io
+Description: White Bootlogo
+Auther: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: http://500pd.github.io/cydiarepo/depictions/WhiteBootLogo/index.html
+Name: White BootLogo
+
+Package: com.paadyhr.whitebootlogo
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//com.paadyhr.whitebootlogo_1.7_iphoneos-arm.deb
+Size: 6978
+MD5sum: b31d6a80f804fa559aa3d5e6924d9bec
+SHA1: ed8ac550f2390d3ef4b4cdc4a9bc5da193f86bd9
+SHA256: 9d4a103cd4158c5eb297b9285b1d684306d45454b9e120e51de4c98746e9bb90
+Section: Themes
+Homepage: https://500pd.github.io
+Description: White Bootlogo
+Auther: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: https://500pd.github.io/cydia/depictions/WhiteBootLogo/index.html
+Name: White BootLogo
+
