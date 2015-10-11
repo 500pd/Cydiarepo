@@ -1,4 +1,4 @@
-# Cydiarepo
+# Cydia
 A Repository for Cydia
 
 ## License
