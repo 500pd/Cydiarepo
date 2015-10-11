@@ -5,5 +5,4 @@ A Repository for Cydia
 Dette er hjemmesiden for mit cydiarepositorie.  
 Og kan findes på <https://500pd.github.io/cydia/>
 
-## License
-[MIT](https://github.com/500pd/cydiarepo/blob/master/LICENSE)
+## Copyright © 2015 Peter Dyhr Licensed under the [MIT license](https://github.com/500pd/cydiarepo/blob/master/LICENSE)
