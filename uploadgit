@@ -1,6 +1,6 @@
 #!/bin/zsh
 echo "Kopiere filer"
-cd /Users/paad/GitHub/cydiarepo/
+cd /Users/paad/GitHub/cydiarepo/master/
 git add --all
 git commit -a 
 git push -u origin master
