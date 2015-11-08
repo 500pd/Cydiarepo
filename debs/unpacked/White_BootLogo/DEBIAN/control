@@ -1,6 +1,6 @@
 Package: com.paadyhr.whitebootlogo
 Name: White BootLogo
-Version: 1.7
+Version: 1.7-2
 Architecture: iphoneos-arm
 Description: White Bootlogo
 Homepage: https://500pd.github.io
@@ -8,4 +8,5 @@ Depiction: https://500pd.github.io/cydia/depictions/WhiteBootLogo/index.html
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Auther: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Section: Themes
-Depends: winterboard
+Depends: 
+

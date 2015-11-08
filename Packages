@@ -84,6 +84,22 @@ Depiction: http://500pd.github.io/cydiarepo/depictions/OS_X_Theme/index.html
 Name: OS X Theme
 
 Package: com.paadyhr.osxtheme
+Version: 1.6-2
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Filename: debs//com.paadyhr.osxtheme_1.6-2_iphoneos-arm.deb
+Size: 1775184
+MD5sum: 037c189d8ec02ab5971240ad4875fee6
+SHA1: 5c29abf905c4559a5b3274b841793030545ca9fd
+SHA256: 7735e00c6d6877eafd867d1d8b8d9952c4cc4fbe215a63528bca2259feb3bc07
+Section: Themes
+Homepage: https://500pd.github.io
+Description: OS X Theme
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: https://500pd.github.io/cydia/depictions/OS_X_Theme/index.html
+Name: OS X Theme
+
+Package: com.paadyhr.osxtheme
 Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
@@ -186,6 +202,22 @@ Depiction: http://500pd.github.io/cydiarepo/depictions/PetersTema/index.html
 Name: PetersTema
 
 Package: com.paadyhr.peterstema
+Version: 0.1.9-2
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Filename: debs//com.paadyhr.peterstema_0.1.9-2_iphoneos-arm.deb
+Size: 118794
+MD5sum: 004be2019e9ee632f7f83b6ca0efd27c
+SHA1: d767aa212f8d88b27b58d7957d8f2c30d3018dc9
+SHA256: d4d2f4fefb287eb48968c8f45532e447ff3d7e11350fe8d188b272e315fb0698
+Section: Themes
+Homepage: https://500pd.github.io
+Description: Peters Tema
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: https://500pd.github.io/cydia/depictions/PetersTema/index.html
+Name: PetersTema
+
+Package: com.paadyhr.peterstema
 Version: 0.1.9
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
@@ -267,6 +299,22 @@ Homepage: http://500pd.github.io
 Description: White Bootlogo
 Auther: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depiction: http://500pd.github.io/cydiarepo/depictions/WhiteBootLogo/index.html
+Name: White BootLogo
+
+Package: com.paadyhr.whitebootlogo
+Version: 1.7-2
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Filename: debs//com.paadyhr.whitebootlogo_1.7-2_iphoneos-arm.deb
+Size: 6974
+MD5sum: 509a20ea3b5f1159273aa60addedcd1e
+SHA1: d33cf486567984632e62fbab765feaa458a767a0
+SHA256: 8c65bc354877b9e3d5a754093339c1d5861d872b3fd6ec332133a8388789206e
+Section: Themes
+Homepage: https://500pd.github.io
+Description: White Bootlogo
+Auther: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: https://500pd.github.io/cydia/depictions/WhiteBootLogo/index.html
 Name: White BootLogo
 
 Package: com.paadyhr.whitebootlogo
