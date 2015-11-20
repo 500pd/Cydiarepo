@@ -1,0 +1,12 @@
+Package: com.paadyhr.respringlogo
+Name: Peters Respring Logos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Peters Respring Logos
+Homepage: https://500pd.github.io
+Depicion: https://500pd.github.io/cydia/depictions/Peters_Respring_Logos/index.html
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Section: Themes
+Depends:
+

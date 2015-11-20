@@ -4,4 +4,5 @@ cd debs/unpacked/
 dpkg-deb -b -Zgzip OS_X_Theme ../
 dpkg-deb -b -Zgzip PetersTema ../
 dpkg-deb -b -Zgzip White_BootLogo ../
+dpkg-deb -b -Zgzip Peters_Respring_Logos ../
 echo "pakker pakket"
