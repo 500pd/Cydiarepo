@@ -106,9 +106,9 @@ Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Filename: debs//com.paadyhr.osxtheme_1.6-2_iphoneos-arm.deb
 Size: 1775144
-MD5sum: 897f3ed7a0bdfcccb0ce56337a8a4aca
-SHA1: 2182b9181e12cc79af6cf0dfd733f2490e95fda6
-SHA256: 00a4a32b92108cdb891c7f7c2a42b92888edab917e560343469bf41a22253d49
+MD5sum: 0916018e954518e2531ee57d8756b7d7
+SHA1: d0b4a40cdcc7e92a5a1cdadbd4fe61c5b526a8b2
+SHA256: 7d802a1135afb73a1c8aba9e8d0515ac60d4730ee84e2cdd2fbe61a8847a79ae
 Section: Themes
 Homepage: https://500pd.github.io
 Description: OS X Theme
@@ -223,10 +223,10 @@ Version: 0.1.9-2
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Filename: debs//com.paadyhr.peterstema_0.1.9-2_iphoneos-arm.deb
-Size: 118748
-MD5sum: 5fd224fc8b977b284a851a9e0929d73b
-SHA1: eb812e5da8ebba11dc2a6eb81afffa1200a8e643
-SHA256: 227a3091e75525b11ca5087c89d3a846a08313831b678c47ae894fc71cfce18a
+Size: 118752
+MD5sum: d5c1092b19b856b86efafd7b3120e4b3
+SHA1: 2209ac52adb68b30b4a14ad1208de0fbc18e55cc
+SHA256: 216dbed1ac673ca91b50decd6638ec1c87ef62012e22f2ff297e25dc2b65f88e
 Section: Themes
 Homepage: https://500pd.github.io
 Description: Peters Tema
@@ -255,10 +255,10 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Filename: debs//com.paadyhr.respringlogo_1.1_iphoneos-arm.deb
-Size: 39752
-MD5sum: 7214a79cc4b8142950e66eb3cdcfa97a
-SHA1: 0b9e0bfaab57eef0c3fbd84d05d11a6bfdc9a130
-SHA256: 9c8c7545e6d9264a6faa91fb4d473ec854ad666858a516cc0b64e43c1ac98132
+Size: 39736
+MD5sum: 5165fe11db3835b02566ecea9226e2f3
+SHA1: 8c2466360f5b3397a97c026a8e726cb0b5d2266d
+SHA256: 2a8423611c07da4fee1f0f2e1667c7aabf78183797ceb3dba5e4c1eb7df12c70
 Section: Themes
 Homepage: https://500pd.github.io
 Description: Peters Respring Logos
@@ -355,10 +355,10 @@ Version: 1.7-2
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Filename: debs//com.paadyhr.whitebootlogo_1.7-2_iphoneos-arm.deb
-Size: 7528
-MD5sum: 88b451be16aa60526fedfc35ba9f8ec8
-SHA1: b4abf58d03878ddb217468b28544a1b3ac3e6c3c
-SHA256: 51f818c70c08f970a309a34983a4489f8361019fc709fe3e7690a8e021ebe2e1
+Size: 7102
+MD5sum: f517156072dd44fa54f64f6c5b500bcb
+SHA1: a0ea7bd62dcdcbc6cef0b84563277a3bdbf9cc38
+SHA256: af12135186303413cd09bc440ce2bdad33266d66e2b88b1a551000cfe5b8de94
 Section: Themes
 Homepage: https://500pd.github.io
 Description: White Bootlogo
