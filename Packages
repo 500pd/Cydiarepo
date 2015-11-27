@@ -116,6 +116,38 @@ Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depiction: https://500pd.github.io/cydia/depictions/OS_X_Theme/index.html
 Name: OS X Theme
 
+Package: com.paadyhr.osxtheme
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Filename: debs//com.paadyhr.osxtheme_1.7_iphoneos-arm.deb
+Size: 1775136
+MD5sum: a6f0cf611812e91bb20f4a56560d67c0
+SHA1: 63f0606f63a8dd36d873e5c7ec9b0fff2b7a0c6a
+SHA256: 2ddf6555b1f53857d47f4788801e5f670766f43d9f0cc0321cd45fe44664e0ae
+Section: Themes
+Homepage: https://500pd.github.io
+Description: OS X Theme
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: https://500pd.github.io/cydia/depictions/OS_X_Theme/index.html
+Name: OS X Theme
+
+Package: com.paadyhr.peterstema
+Version: 0.1.10
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Filename: debs//com.paadyhr.peterstema_0.1.10_iphoneos-arm.deb
+Size: 118754
+MD5sum: a531c7e49179eed6eb17210ce0fc67f2
+SHA1: 467b3bbe5dc70820d196f2f3ea7d8b9afa8cd07a
+SHA256: f3136776f217da7d02a232a7065f790c7c4e95ab46bf1da70971b89fcee6ecb7
+Section: Themes
+Homepage: https://500pd.github.io
+Description: Peters Tema
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: https://500pd.github.io/cydia/depictions/PetersTema/index.html
+Name: PetersTema
+
 Package: com.paadyhr.peterstema
 Version: 0.1.2
 Architecture: iphoneos-arm
@@ -266,6 +298,22 @@ Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depicion: https://500pd.github.io/cydia/depictions/Peters_Respring_Logos/index.html
 Name: Peters Respring Logos
 
+Package: com.paadyhr.respringlogo
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Filename: debs//com.paadyhr.respringlogo_1.2_iphoneos-arm.deb
+Size: 39736
+MD5sum: dee81d550faba002ec2142adf5939e8d
+SHA1: 2ee84055f08d5ee78912cbf687c84975fb693c57
+SHA256: 30294ab02535bcb649ca18d16da4134b7a1c0bf6fc267ba97a037b5c4d303449
+Section: Themes
+Homepage: https://500pd.github.io
+Description: Peters Respring Logos
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depicion: https://500pd.github.io/cydia/depictions/Peters_Respring_Logos/index.html
+Name: Peters Respring Logos
+
 Package: com.paadyhr.whitebootlogo
 Version: 1.2
 Architecture: iphoneos-arm
@@ -356,9 +404,9 @@ Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Filename: debs//com.paadyhr.whitebootlogo_1.7-2_iphoneos-arm.deb
 Size: 7102
-MD5sum: f517156072dd44fa54f64f6c5b500bcb
-SHA1: a0ea7bd62dcdcbc6cef0b84563277a3bdbf9cc38
-SHA256: af12135186303413cd09bc440ce2bdad33266d66e2b88b1a551000cfe5b8de94
+MD5sum: 4b0cdfbae18cbc3ab7dc0a6605ec2038
+SHA1: 1a2430365e44ddceb815b8fd5361ee869139dc81
+SHA256: 74a358b929567d0735dc68c339e1bf3753f447a542429644d56ca66f98fac493
 Section: Themes
 Homepage: https://500pd.github.io
 Description: White Bootlogo
