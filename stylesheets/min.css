@@ -25,3 +25,7 @@ div {
   width: auto;
   margin: auto;
 }
+nav {
+  text-align: center;
+  font-size: large;
+}
