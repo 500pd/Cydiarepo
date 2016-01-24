@@ -122,9 +122,9 @@ Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Filename: debs//com.paadyhr.osxtheme_1.7_iphoneos-arm.deb
 Size: 1775142
-MD5sum: ab415f2db07137e3a99b56a4fc1064d9
-SHA1: 3aeaa83f3b3f81aeda3d110987b57051a2701689
-SHA256: e97fda86b67d911e61e1841dc4b5244de4ed5d7ae03ee669e684fe19c0df263a
+MD5sum: 313054acc0d14b43c8fc336ecc686717
+SHA1: 1b83cf53a982aa69c99afc4978d651d047b86c6b
+SHA256: 2dbd1c5184d0fccdf9fd6d69858eda7960f7510b6b9958442f9c9e7b40d40057
 Section: Themes
 Homepage: https://500pd.github.io
 Description: OS X Theme
@@ -138,9 +138,9 @@ Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Filename: debs//com.paadyhr.peterstema_0.1.10_iphoneos-arm.deb
 Size: 118756
-MD5sum: 716b0e92443bbba43bd546409c66b4d8
-SHA1: 1ec6879314f1df777a9c352180a9f4496a69ae02
-SHA256: fe76cff359d6c88d9dfd76a068fc8009f4863859added3fcc87998a6db403b27
+MD5sum: b9a978076bfd4d7a37f36e23c4705cf9
+SHA1: 005b3cc22ff36f1a186eb62f052cfa1175327618
+SHA256: 21bede42ec17851e43512a85f439c6ff9139cd190f224eeac5c0a9e04835c734
 Section: Themes
 Homepage: https://500pd.github.io
 Description: Peters Tema
@@ -319,15 +319,15 @@ Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Filename: debs//com.paadyhr.respringlogo_1.3_iphoneos-arm.deb
-Size: 57902
-MD5sum: 1f15a59bac705cb23789823b159b9730
-SHA1: 294036da722f31c30fb2704a6a1e1b7d009606d0
-SHA256: 11aa092c2ac3c9a0a565d095fdaa70390fbd67e838f345ac91028e6acc5d9add
+Size: 57904
+MD5sum: e097aaa8b5267b49e1de28aa7256b2a9
+SHA1: b93e95e141ca48428e975922d57b7d4830aaf073
+SHA256: 39f940fd78e99bc3fb8a0347b8e235ec120b8c8d55b26fa1da6e5bc61305a86e
 Section: Themes
 Homepage: https://500pd.github.io
 Description: Peters Respring Logos
 Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
-Depicion: https://500pd.github.io/cydia/depictions/Peters_Respring_Logos/index.html
+Depicion: https://500pd.github.io/depictions/Peters_Respring_Logos/index.html
 Name: Peters Respring Logos
 
 Package: com.paadyhr.statusbartheme
@@ -336,9 +336,9 @@ Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Filename: debs//com.paadyhr.statusbartheme_1.0_iphoneos-arm.deb
 Size: 701088
-MD5sum: 5547f12a9d0c732ac6b342a6559f688b
-SHA1: a9c66efb7c2ba9cbe8a553e2f157d72f1b78206f
-SHA256: a9bd5d9d007104d8a6dffbade9a720a6c13f768e89f8f9e6d74916bcb40e4939
+MD5sum: 63820b88cb783b8d0feae72054eb0691
+SHA1: b3fab54bdfb3cdf2f253b11ded092550e96f087a
+SHA256: 2f09d339e77b59b14be7b478fa548cbab68d89a3d23f2495cb818f523e94cddc
 Section: Themes
 Homepage: https://500pd.github.io
 Description: Statusbar tema
@@ -436,9 +436,9 @@ Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Filename: debs//com.paadyhr.whitebootlogo_1.7-2_iphoneos-arm.deb
 Size: 7108
-MD5sum: 46204a6884639607d689005329113549
-SHA1: a8ac13367dab30e9addd7d3e46a282b026673b74
-SHA256: 6cf1df951c5ff2d6a4e2126793a7c933fb1a9cb34f730806d317e8e9665916b5
+MD5sum: 533ec1cb1dff81c6cdd1ac7c680a46c1
+SHA1: 5658cdb8c399a76f3c9575551ba7b8d12d087d3c
+SHA256: f6662c91567535c6f7684cdafa64b26167026bce6de2444ed1a3ae44c76022a7
 Section: Themes
 Homepage: https://500pd.github.io
 Description: White Bootlogo
