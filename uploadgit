@@ -1,6 +1,6 @@
 #!/bin/zsh
 echo "Kopiere filer"
-cd /Users/paad/GitHub/cydia/
+cd ~/GitHub/cydia/
 git add --all
 git commit -a 
 git push -u origin gh-pages
