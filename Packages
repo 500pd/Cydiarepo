@@ -3,7 +3,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//com.paadyhr.osxtheme_1.1_iphoneos-arm.deb
+Filename: debs/com.paadyhr.osxtheme_1.1_iphoneos-arm.deb
 Size: 1770882
 MD5sum: 26a79181a1044f633b555dab8376951d
 SHA1: 66c5ed62c24c5a41967251f5998dc0149487654e
@@ -20,7 +20,7 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//com.paadyhr.osxtheme_1.2_iphoneos-arm.deb
+Filename: debs/com.paadyhr.osxtheme_1.2_iphoneos-arm.deb
 Size: 1777768
 MD5sum: 7f986d66fe10476cc19752e3f3fd03e4
 SHA1: f35dc950d847b1774f32ef6e0a5d3bb8ed2a7528
@@ -37,7 +37,7 @@ Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//com.paadyhr.osxtheme_1.3_iphoneos-arm.deb
+Filename: debs/com.paadyhr.osxtheme_1.3_iphoneos-arm.deb
 Size: 1775826
 MD5sum: 2002132def40ef034986ee4a75b0d1ac
 SHA1: 402428924791aa19e7c4c0628acea4768ffcdccc
@@ -54,7 +54,7 @@ Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//com.paadyhr.osxtheme_1.4_iphoneos-arm.deb
+Filename: debs/com.paadyhr.osxtheme_1.4_iphoneos-arm.deb
 Size: 1775846
 MD5sum: 8768d026ea0a6e8da6ae9d0a52a8cc1a
 SHA1: 28bffa3610ea3bcf20406d3e8d445b1e7187eca4
@@ -71,7 +71,7 @@ Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//com.paadyhr.osxtheme_1.5_iphoneos-arm.deb
+Filename: debs/com.paadyhr.osxtheme_1.5_iphoneos-arm.deb
 Size: 1775190
 MD5sum: 80b0370384c94dff5be4733af3dc1d56
 SHA1: 270dcc961a01965cb4fd1ac3f428c313e8c42ccd
@@ -88,7 +88,7 @@ Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//com.paadyhr.osxtheme_1.6_iphoneos-arm.deb
+Filename: debs/com.paadyhr.osxtheme_1.6_iphoneos-arm.deb
 Size: 1775190
 MD5sum: 4dcdb6752be99ee8845a5bfca64ef261
 SHA1: d97096c88c5ef63f0393ee8fb9062f2bc80270d4
@@ -104,7 +104,7 @@ Package: com.paadyhr.osxtheme
 Version: 1.6-2
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
-Filename: debs//com.paadyhr.osxtheme_1.6-2_iphoneos-arm.deb
+Filename: debs/com.paadyhr.osxtheme_1.6-2_iphoneos-arm.deb
 Size: 1775144
 MD5sum: 0916018e954518e2531ee57d8756b7d7
 SHA1: d0b4a40cdcc7e92a5a1cdadbd4fe61c5b526a8b2
@@ -120,7 +120,7 @@ Package: com.paadyhr.osxtheme
 Version: 1.7
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
-Filename: debs//com.paadyhr.osxtheme_1.7_iphoneos-arm.deb
+Filename: debs/com.paadyhr.osxtheme_1.7_iphoneos-arm.deb
 Size: 1775154
 MD5sum: 2453409986533ebdf9e317dfec58a711
 SHA1: bdf2a1dcf16614f1f1830c72c970464e0b6218d7
@@ -136,7 +136,7 @@ Package: com.paadyhr.peterstema
 Version: 0.1.10
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
-Filename: debs//com.paadyhr.peterstema_0.1.10_iphoneos-arm.deb
+Filename: debs/com.paadyhr.peterstema_0.1.10_iphoneos-arm.deb
 Size: 118756
 MD5sum: 16f3208b2accf9e300dbf935f449014b
 SHA1: f76ddfb2df88904d118e854d110d15a8bc78d026
@@ -153,7 +153,7 @@ Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//com.paadyhr.peterstema_0.1.4_iphoneos-arm.deb
+Filename: debs/com.paadyhr.peterstema_0.1.4_iphoneos-arm.deb
 Size: 118862
 MD5sum: 9bb8e4703a8532cc2fb10f0596071eca
 SHA1: e1073f7710b2a9f7f293a35a6e760c4b805fbb2b
@@ -170,7 +170,7 @@ Version: 0.1.5
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//com.paadyhr.peterstema_0.1.5_iphoneos-arm.deb
+Filename: debs/com.paadyhr.peterstema_0.1.5_iphoneos-arm.deb
 Size: 118878
 MD5sum: 360dd16424c4a0b1f2aec6602753dd10
 SHA1: 680504eb0185b4207781503d0435e6cc94814a45
@@ -187,7 +187,7 @@ Version: 0.1.6
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//com.paadyhr.peterstema_0.1.6_iphoneos-arm.deb
+Filename: debs/com.paadyhr.peterstema_0.1.6_iphoneos-arm.deb
 Size: 119256
 MD5sum: d881c776740ea03214fd0a9fa23aa51c
 SHA1: 3c1355ed7a4a9d7e0f8c0ca4edd73a540cfe0b79
@@ -204,7 +204,7 @@ Version: 0.1.7
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//com.paadyhr.peterstema_0.1.7_iphoneos-arm.deb
+Filename: debs/com.paadyhr.peterstema_0.1.7_iphoneos-arm.deb
 Size: 119514
 MD5sum: c1e824cb3285ee8b79c2b126f1d5e2b0
 SHA1: 1bf366ec6761ddf98915a6e73a18a9380fa90c36
@@ -221,7 +221,7 @@ Version: 0.1.8
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//com.paadyhr.peterstema_0.1.8_iphoneos-arm.deb
+Filename: debs/com.paadyhr.peterstema_0.1.8_iphoneos-arm.deb
 Size: 118800
 MD5sum: 1d7e0bab8f4b3f1a7a2364b9e8f5af4f
 SHA1: c2b72a0f5f2c76e2b77531b3971cc67cf443c129
@@ -238,7 +238,7 @@ Version: 0.1.9
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//com.paadyhr.peterstema_0.1.9_iphoneos-arm.deb
+Filename: debs/com.paadyhr.peterstema_0.1.9_iphoneos-arm.deb
 Size: 118800
 MD5sum: 6923a1c81f983d9e8ff8595c70aac343
 SHA1: 47becc6111c0c3867f920fb822f5fa758476977b
@@ -254,7 +254,7 @@ Package: com.paadyhr.peterstema
 Version: 0.1.9-2
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
-Filename: debs//com.paadyhr.peterstema_0.1.9-2_iphoneos-arm.deb
+Filename: debs/com.paadyhr.peterstema_0.1.9-2_iphoneos-arm.deb
 Size: 118752
 MD5sum: d5c1092b19b856b86efafd7b3120e4b3
 SHA1: 2209ac52adb68b30b4a14ad1208de0fbc18e55cc
@@ -270,7 +270,7 @@ Package: com.paadyhr.respringlogo
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
-Filename: debs//com.paadyhr.respringlogo_1.0_iphoneos-arm.deb
+Filename: debs/com.paadyhr.respringlogo_1.0_iphoneos-arm.deb
 Size: 36922
 MD5sum: 14c5ccad7bfa8947267dea77c8c3ac4d
 SHA1: 225bbd858178994b72a82684027d354b2fa9987c
@@ -286,7 +286,7 @@ Package: com.paadyhr.respringlogo
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
-Filename: debs//com.paadyhr.respringlogo_1.1_iphoneos-arm.deb
+Filename: debs/com.paadyhr.respringlogo_1.1_iphoneos-arm.deb
 Size: 39736
 MD5sum: 5165fe11db3835b02566ecea9226e2f3
 SHA1: 8c2466360f5b3397a97c026a8e726cb0b5d2266d
@@ -302,7 +302,7 @@ Package: com.paadyhr.respringlogo
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
-Filename: debs//com.paadyhr.respringlogo_1.2_iphoneos-arm.deb
+Filename: debs/com.paadyhr.respringlogo_1.2_iphoneos-arm.deb
 Size: 39742
 MD5sum: 81996281e988bad83c7ddf8d0e74c24b
 SHA1: 326970205f7196a1c6da1a7bcd65a1b57cbe3fda
@@ -318,7 +318,7 @@ Package: com.paadyhr.respringlogo
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
-Filename: debs//com.paadyhr.respringlogo_1.3_iphoneos-arm.deb
+Filename: debs/com.paadyhr.respringlogo_1.3_iphoneos-arm.deb
 Size: 57902
 MD5sum: dfa1f053f633e0f88f43bd67e72ca5d8
 SHA1: e2085b7353dfa3e65e76e8a3af5a09d26ddc2882
@@ -334,7 +334,7 @@ Package: com.paadyhr.statusbartheme
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
-Filename: debs//com.paadyhr.statusbartheme_1.0_iphoneos-arm.deb
+Filename: debs/com.paadyhr.statusbartheme_1.0_iphoneos-arm.deb
 Size: 701080
 MD5sum: 29d049d6f40448d897ff035891673023
 SHA1: d956eb53c2f6cf0a9ce7ad4214f2867ae02e7047
@@ -346,12 +346,28 @@ Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depiction: https://500pd.github.io/cydia/depictions/StatusBarTheme/index.html
 Name: StatusBar tema
 
+Package: com.paadyhr.test
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.paadyhr.test_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3858
+MD5sum: 7ceef51cdd33dc599331d72229eda8c1
+SHA1: 792edd07d853383a58fbfa2b6daa4a55d3ad3630
+SHA256: 38d03433ca6afe829bd9ce479d4a0ca4538b18700d5cb985aafc1e531bf8f496
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Peter András Adorján Dyhr
+Name: Test
+
 Package: com.paadyhr.whitebootlogo
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//com.paadyhr.whitebootlogo_1.2_iphoneos-arm.deb
+Filename: debs/com.paadyhr.whitebootlogo_1.2_iphoneos-arm.deb
 Size: 6952
 MD5sum: 342d215b32a5aa39e53eaca39298ea04
 SHA1: ea37eedb7702655eaf548d65ef9e84a75433e128
@@ -367,7 +383,7 @@ Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//com.paadyhr.whitebootlogo_1.4_iphoneos-arm.deb
+Filename: debs/com.paadyhr.whitebootlogo_1.4_iphoneos-arm.deb
 Size: 6992
 MD5sum: edd160e787520df97f21260dc7b3f630
 SHA1: 03795dc0e55cef92ad17558901b53e4d8498c0d3
@@ -384,7 +400,7 @@ Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//com.paadyhr.whitebootlogo_1.5_iphoneos-arm.deb
+Filename: debs/com.paadyhr.whitebootlogo_1.5_iphoneos-arm.deb
 Size: 7348
 MD5sum: ca052e0ba6a726aae41e9db3cf307cd6
 SHA1: 120f07179aafd52612f082ecaba0363ae5169737
@@ -401,7 +417,7 @@ Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//com.paadyhr.whitebootlogo_1.6_iphoneos-arm.deb
+Filename: debs/com.paadyhr.whitebootlogo_1.6_iphoneos-arm.deb
 Size: 6980
 MD5sum: 52db9846a44a8876d48305235a78c9e7
 SHA1: eec0d3ef674a06cca6c0682d46869e37508936bc
@@ -418,7 +434,7 @@ Version: 1.7
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//com.paadyhr.whitebootlogo_1.7_iphoneos-arm.deb
+Filename: debs/com.paadyhr.whitebootlogo_1.7_iphoneos-arm.deb
 Size: 6978
 MD5sum: b31d6a80f804fa559aa3d5e6924d9bec
 SHA1: ed8ac550f2390d3ef4b4cdc4a9bc5da193f86bd9
@@ -434,7 +450,7 @@ Package: com.paadyhr.whitebootlogo
 Version: 1.7-2
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
-Filename: debs//com.paadyhr.whitebootlogo_1.7-2_iphoneos-arm.deb
+Filename: debs/com.paadyhr.whitebootlogo_1.7-2_iphoneos-arm.deb
 Size: 7108
 MD5sum: b4c4f71a0131bb53c2c4560ba1894940
 SHA1: 46c19e5324a858826bd732856e62d0f520e21af2
