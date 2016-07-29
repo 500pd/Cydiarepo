@@ -6,4 +6,7 @@ dpkg-deb -b -Zgzip PetersTema ../
 dpkg-deb -b -Zgzip White_BootLogo ../
 dpkg-deb -b -Zgzip Peters_Respring_Logos ../
 dpkg-deb -b -Zgzip StatusBarTheme ../
+cd test
+make package
+mv packages/* ./../../
 echo "pakker pakket"

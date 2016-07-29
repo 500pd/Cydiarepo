@@ -1,0 +1,10 @@
+Package: com.paadyhr.test
+Name: Test
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Peter András Adorján Dyhr
+Author: Peter András Adorján Dyhr
+Section: Tweaks
+Version: 0.0.1-6+debug
+Installed-Size: 120
