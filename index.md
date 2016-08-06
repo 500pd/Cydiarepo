@@ -28,3 +28,4 @@ Navn | Type | Version
 (OS X Tema)[/cydia/depictions/OS_X_Theme/] | Tema | 1.7  
 (StatusBar tema)[/cydia/depictions/StatusBarTheme/] | Tema | 1.0  
 (Peters Respring Logos)[/cydia/depictions/Peters_Respring_Logos/] | Tema | 1.2
+(Test) | Tweak | 0.0.1-6+debug
